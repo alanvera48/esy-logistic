@@ -14,8 +14,8 @@ Copy the link
 Open git branch and type : git clone --link
 Markdown has enumation and nested lists.
 
+![freight-2](https://user-images.githubusercontent.com/70673103/115097323-bc6c5f00-9eff-11eb-9dab-0698a2bff496.jpg)
 
-![alt text](http://url/to/img.png)
 
 Notes
 
