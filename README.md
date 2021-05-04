@@ -14,6 +14,7 @@ If you have special requirements, you have to list it step by step.
 
 You can see the proyect in :https://alanvera48.github.io/esy-logistic/
 
+![esy-picture2](https://user-images.githubusercontent.com/70673103/117043859-2187c900-ace4-11eb-82e7-63c50f046281.png)
 
 
 This is the first step
